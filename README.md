@@ -32,7 +32,7 @@ An analysis of a synthetic healthcare dataset containing approximately 500,000 p
 
 **Tools:** Python, Pandas, NumPy, SciPy, scikit-learn, Matplotlib and Excel(source workbook).
 
-🔗 [Explore the Readmission Analysis Project](https://github.com/umar-ramadan)
+🔗 [Explore the Readmission Analysis Project](https://github.com/umar-ramadan/hospital-30-day-readmission-risk-analysis)
 
 ### 2. Hospital Length of Stay Factors Analysis
 

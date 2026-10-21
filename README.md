@@ -47,7 +47,7 @@ A healthcare analytics project investigating patterns in hospital length of stay
 
 **Tools:** Python, pandas, NumPy, SciPy, scikit-learn, Matplotlib and Excel(source workbook-CSV)
 
-🔗 [Explore the Length of Stay Analysis Project](https://github.com/umar-ramadan)
+🔗 [Explore the Length of Stay Analysis Project](https://github.com/umar-ramadan/hospital-length-of-stay-factors-analysis)
 
 ## 🛠️ Technical Skills
 
